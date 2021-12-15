@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_NAME" Language="zh_Hans_CN">
+			<Text>早期轰炸机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_BOMBER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>最早的轰炸机单位，现代可用。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_NAME" Language="zh_Hans_CN">
+			<Text>隐形轰炸机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_BOMBER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有隐身能力的最强轰炸机单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_NAME" Language="zh_Hans_CN">
+			<Text>隐形战斗机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_STEALTH_FIGHTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>拥有隐身能力的最强战斗机单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_NAME" Language="zh_Hans_CN">
+			<Text>早期攻击机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW1_GROUND_ATTACK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>最早的攻击机单位，现代可用。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_NAME" Language="zh_Hans_CN">
+			<Text>攻击机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GROUND_ATTACK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能时代攻击机升级。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_NAME" Language="zh_Hans_CN">
+			<Text>喷气式攻击机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JET_GROUND_ATTACK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代攻击机升级。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_AIR_ATTACK_NAME" Language="zh_Hans_CN">
+			<Text>空中打击</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_NAME" Language="zh_Hans_CN">
+			<Text>野鼬鼠</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_WILD_WEASEL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗防空单位+10[ICON_Strength]战斗力。[NEWLINE]攻击防空单位掩护地块+10 [ICON_Strength] 战斗力</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_NAME" Language="zh_Hans_CN">
+			<Text>对抗措施</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COUNTERMEASURES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗战斗机单位+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_NAME" Language="zh_Hans_CN">
+			<Text>起飞架次</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SORTIES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>攻击后可恢复。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_NAME" Language="zh_Hans_CN">
+			<Text>制导炸弹</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_GUIDED_BOMBS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗驻扎单位+10 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_NAME" Language="zh_Hans_CN">
+			<Text>战略轰炸</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_STRATEGIC_BOMBING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗区域防御+12 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_NAME" Language="zh_Hans_CN">
+			<Text>地毯式轰炸</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CARPET_BOMBING_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗陆地单位+15 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_NAME" Language="zh_Hans_CN">
+			<Text>制空战斗机</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_AIR_SUPERIORITY_FIGHTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗地面攻击机单位+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_NAME" Language="zh_Hans_CN">
+			<Text>无人飞行器</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_UAV_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代攻击型无人机。</Text>
+		</Replace>
+		<!-- Air Units Civilopidia -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>第一次世界大战爆发时，包括英国、法国和德国在内的几个国家都试验过通过飞机进行爆炸轰炸的概念。在战争初期，各种类型的飞机都投下了炸弹，包括侦察机和战斗机。战争期间引进的首批真正的轰炸机之一，Voisin III，是由法国飞机制造商Gabriel Voisin设计的。VoisinIII采用标准双平面设计，由钢架加固，能够承载超过300磅的载荷。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_BOMBER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>诺斯罗普(后来的诺斯罗普·格鲁曼)B-2幽灵，也被称为隐形轰炸机，是一种美国重型渗透战略轰炸机，具有低可观察隐身技术，设计用于穿透密集防空防御;这是一个有两名机组人员的飞行机翼设计。轰炸机可以部署常规和热核武器，如80枚500磅(230公斤)级(Mk 82) JDAM全球定位系统制导炸弹，或16 2400磅(1100公斤)B83核弹。B-2是唯一一种公认的能够在隐形配置下携带大型空对地对峙武器的飞机。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_BOMBER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>第五代喷气式战斗机是世界各地使用的喷气式战斗机分类，包括21世纪上半叶开发的战斗机技术。截至2020年，这些是最先进的飞机。第五代喷气式战斗机的确切特征是有争议和模糊的，洛克希德-马丁公司将其定义为即使在武装时也具有全方面的隐身性，低概率拦截雷达（LPIR），高性能机身，先进的航空电子设备功能，以及高度集成的计算机系统，能够与战斗空间内的其他元素联网以了解局势。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>截至2018年12月，唯一可以作战的第五代战斗机是洛克希德-马丁公司的F-22 "猛禽"，它于2005年在美国空军服役；洛克希德-马丁公司的F-35 "闪电 "II，它于2015年服役；以及成都的J-20，它于2017年9月在中国人民解放军空军服役。沈阳FC-31在2017年进行了3.0修订版的飞行测试。HAL AMCA、三菱X-2信天翁、TAI TF-X和巴基斯坦Project Azm MALE UAV都处于早期开发阶段。苏霍伊苏-57预计将于2020年交付给俄罗斯空军。 </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_FIGHTER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>这种攻击机的作用是在第一次世界大战期间被用来支援战场上的地面部队。战场支援一般分为近距离空中支援和战场空中拦截，前者要求严格，后者只与友军地面部队进行一般合作。尽管这样的飞机也攻击了后方的目标。这类任务需要在预计会有轻型防空火力的地方飞行，并在低空作业，以精确识别目标。其他角色，包括轻型轰炸机、中型轰炸机、潜水轰炸机、侦察、战斗机、战斗轰炸机，可以也确实在战场上进行空袭。所有这些类型的导弹都可能在低空飞行中对地面目标造成重大破坏，要么是通过轰炸，要么是机关枪，要么两者兼而有之。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW1_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>二战初期，德国空军的容克Ju-87s几乎成了近距离空中支援的代名词。英联邦的沙漠空军由阿瑟·特德成为第一个联合战术形成强调进攻的角色,通常在形式的单引擎小贩飓风和柯蒂斯P-40战斗轰炸机或专门的“坦克驱逐”,如飓风可IID,手持两40毫米维氏年代枪(尤其是6号中队RAF)。与此同时，轴心国军队的大规模入侵迫使苏联空军迅速扩大其陆军支援能力，如伊尔-2斯图尔莫维克(Ilyushin Il-2 Sturmovik)。被称为“夜女巫”的女飞行员在“骚扰轰炸”中使用了一种过时的、木制的轻型教练机双翼飞机、Polikarpov Po-2和小型杀伤炸弹。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>二战后的空军最初不愿开发专门用于地面攻击的固定翼喷气式飞机。尽管近距离空中支援和拦截对现代战场仍至关重要，但攻击机的魅力不如战斗机，飞行员和军事规划者都对“泥巴搬运者”有一种根深蒂固的蔑视。道格拉斯·a - 3 Skywarrior和北美5治安维持会成员设计飞机舰载核打击的角色,而格鲁曼公司a - 6入侵者,沃特公司a - 7海盗船II,苏霍伊架苏-25,A-10雷电,Panavia龙卷风,AMX,达索Etendard和超级Etendard和其他许多不太知名的飞机已经专门为地面攻击,罢工,亲密的支持和反装甲工作,很少或根本没有空对空能力融入到设计中。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_JET_GROUND_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>洛克希德·马丁公司F-35闪电II是一种单座、单引擎、全天候隐形多用途战斗机。第五代战斗机被设计用来执行地面攻击和空中优势任务。它有三种主要型号:F-35A常规起降(CTOL)改型、F-35B短距起降和垂直起降(STOVL)改型、F-35C舰载弹射器辅助起降但滞回(CATOBAR)改型。2015年7月31日，美国海军陆战队在密集测试后宣布准备部署首支F-35B战斗机中队。2016年8月2日，美国空军宣布其首个F-35A战斗机中队已准备就绪。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STEALTH_ATTACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>“野鼬鼠”是美国电子战部队，特别是美国空军，给任何一种装备了雷达追踪导弹的飞机起的代号，其任务是摧毁敌方防空系统的雷达和防空导弹装置。“第一次野生黄鼠狼的成功是在1965年12月20日的第一次野生黄鼠狼任务之后不久。当时，Al Lamb和Jack Donovan上尉在越南河内西北75英里的Yen Bai的铁路院内发动了一场雷鸣般的攻击，他们在那里占领了一个地点。”野鼬概念是由美国空军在1965年开发的，在苏联导弹和美国战机在越南北部上空被击落后。该项目由肯尼斯·登普斯特将军领导。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WILD_WEASEL_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>照明弹或诱饵照明弹是一种空中红外对抗措施，由飞机或直升机用来对抗红外寻的地对空导弹或空对空导弹。耀斑通常由镁或其他热燃烧金属的烟火成分组成，燃烧温度等于或高于发动机排气温度。其目的是使红外制导导弹从耀斑而不是飞机引擎中寻找热信号。糠,最初叫窗口由英国和Duppel第二次世界大战德国空军时代(从柏林郊区,这是第一个发达),是飞机或其他目标的雷达对抗蔓延一团小,细薄的铝,金属玻璃纤维或塑料,要么显示为一个集群的主要目标在雷达屏幕上或屏幕沼泽多的回报。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_COUNTERMEASURES_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>“突围”(法语单词，意为“撤退”)是指在某一军事据点部署或派遣一个军事单位，无论是飞机、船只还是军队。无论由一架或多架飞机或船只出动，通常都有特定的任务。架次率是给定单位在给定时间内能够支持的架次数量。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SORTIES_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在双翼战斗机上安装了机枪后不久，飞行员们拿着未使用过的弹药从任务中返回，他们自娱自乐地潜水并向地面目标射击……通常是可怜的步兵和补给车队被困在西部前线的泥泞中。在很短的时间内，将军们看到了这样做的价值，因此扫射成为了空中战术的一部分(它没有斗狗那么危险)。航空设计人员甚至开始建造专门用于地面攻击的飞机，例如Junkers J.1型飞机，两架向下对着机关枪。在第二次世界大战来临之际，大多数战斗人员都有专门用于扫射的战斗机，其中大多数配备了多挺机枪和一些小型火箭。制导炸弹(也被称为智能炸弹，制导炸弹单位，或GBU)是精确制导弹药设计，以实现较小的圆概率误差(CEP)。因为根据幂律，爆炸武器的破坏作用随着距离的增加而减弱，即使在精度上的微小改进(从而减少脱靶量)也能使目标受到更少或更小的炸弹的有效攻击。因此，有了制导武器，更少的空勤人员处于危险之中，更少的弹药消耗，间接伤害减少。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDED_BOMBS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>地毯式轰炸，也被称为饱和轰炸，是一种大规模的空中轰炸，以循序渐进的方式对选定地区的每一部分造成破坏。这个短语让人想起爆炸完全覆盖一个区域的画面，就像地毯覆盖地板一样。地毯式轰炸通常是通过投掷许多非制导炸弹来实现的。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_CARPET_BOMBING_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>战略轰炸是在全面战争中使用的一种军事战略，目的是通过摧毁敌人的士气或其生产和运输物资到军事行动场所的经济能力，或两者兼而有之来击败敌人。它是一种有系统地从空中组织和执行的攻击，可以利用战略轰炸机、远程或中程导弹或核武装战斗轰炸机攻击被认为对敌人的作战能力至关重要的目标。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_STRATEGIC_BOMBING_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>空中优势战斗机(air superiority fighter)又称空中优势战斗机(air advantage fighter)，是一种用于进入并夺取对敌方领空控制权的战斗机，以建立对敌方空军(air supremacy)全面控制的一种战斗机。空中优势战斗机的设计主要是为了有效地与敌方战斗机交战，比其他类型的飞机要多，尽管有些可能在空对地打击中起次要作用。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_AIR_SUPERIORITY_FIGHTER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>无人驾驶飞行器(UAV)，通常被称为无人机(drone)，是一种无人驾驶飞机。无人机是无人机系统(UAS)的组成部分;它包括无人机、地面控制器和两者之间的通信系统。无人机的飞行可以具有不同程度的自主性:由人类操作人员远程控制，或由机载计算机自主控制。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_UAV_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<!-- Air Units Changes -->
+		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能时代早期轰炸机升级。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BIPLANE_NAME" Language="zh_Hans_CN">
+			<Text>早期战斗机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能时代早期战斗机升级。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

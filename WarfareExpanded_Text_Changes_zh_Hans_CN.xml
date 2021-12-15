@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Land Units -->
+		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="zh_Hans_CN">
+			<Text>火力支援班</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能时代火力支援单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="zh_Hans_CN">
+			<Text>现代火力支援班</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代火力支援单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_NAME" Language="zh_Hans_CN">
+			<Text>武装直升机</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>移动迅速的信息时代抗骑兵单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="zh_Hans_CN">
+			<Text>你期待通过建造来提高你庞大远程部队的表现。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>印度独有的古典时期单位，取代甲胄骑兵。敌对单位-5 [ICON_STRENGTH] 近战攻击力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>现代火力支援单位。对抗近战、抗骑兵和轻骑兵单位时获得[ICON_Strength]战斗力加成。除非获得“机动火力”晋升，否则移动和攻击不能在同一回合进行。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能时期近战单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>文艺复兴时期抗骑兵单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>移动迅速的的原子能重骑兵单位，忽略区域控制。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME" Language="zh_Hans_CN">
+			<Text>主战坦克</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工业时代支援单位。相邻攻城类单位+1 [ICON_Range] 射程。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARTILLERY_NAME" Language="zh_Hans_CN">
+			<Text>重型火炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代轻骑兵单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>瑞典独有的工业时代单位，取代了线列步兵。比线列步兵更快。每点未使用的 [ICON_Movement] 移动力提供+3 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>马其顿独有的近战单位。 围攻区域时+5 [ICON_Strength] 近战攻击力。 50% 额外加成。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>马其顿独有的重骑兵单位，取代了甲胄骑兵。 与大将军相邻时额外+5 [ICON_Strength] 近战攻击力。每击杀一名敌方单位+5 大将军点数。  出生自带1点免费晋升。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRONE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代火力支援单位。 为1单元格内的攻城类单位+1 [ICON_Range] 射程、+5 [ICON_Bombard] 炮击攻击力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKEMAN_NAME" Language="zh_Hans_CN">
+			<Text>钩镰兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_NAME" Language="zh_Hans_CN">
+			<Text>长矛兵</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

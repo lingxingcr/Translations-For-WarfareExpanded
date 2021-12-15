@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- New Units Pedia Text -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FUSILIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>燧发枪手是对各种士兵的一种称呼；其含义取决于历史背景。虽然燧发枪手源自17世纪的法语单词fusil--意思是一种燧发枪--但这个词在不同国家和不同时期的使用方式截然不同，包括守卫大炮的士兵、各种精英部队、普通线步兵和其他用途。燧发枪小武器在17世纪初首次在军事上使用。当时，燧发枪比火柴枪更可靠，使用起来也更安全，火柴枪需要在枪膛附近点燃一根火柴才能触发武器。相比之下，燧发枪是用一块打火石发射的。到英国内战（1642-1652年）时，一种燧发枪，即snaphance，已在英国普遍使用。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FUSILIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FUSILIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FUSILIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FUSILIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LATE_PIKEMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>长矛基本上是一根很长的枪，用于将锋利的矛头刺向某人，而不是扔向他们。对付其他步兵非常有效，尤其是对付各种类型的骑兵。事实上，除了长弓手和泥泞的地面，长矛大约是唯一能劝阻骑兵骑士骑着农民的东西。因此，长矛最好用在大规模的阵型中，如希腊方阵或瑞士雇佣军或德国的Landknechts。然而，由于很难用两只手同时握住长矛和盾牌，长矛手往往容易受到弓箭手和剑客的攻击；他们在近战中没有什么优势。但如果能保持紧密的队形，手持长矛的人群可以直接越过对手，并能在侧翼固定住骑士。在文艺复兴时期使用的全盛时期，长矛变得越来越长，最终有些长矛达到22英尺左右。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LATE_PIKEMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LATE_PIKEMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LATE_PIKEMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LATE_PIKEMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRENADIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>掷弹兵（源于手榴弹一词）最初是一种专门的士兵，在17世纪中后期首次被确立为一个独特的角色，用于投掷手榴弹，有时也用于突击行动。当时，掷弹兵是从最强壮和最大的士兵中挑选出来的。到了18世纪，这种专门投掷手榴弹的做法已不再适用，但手榴弹兵仍被选为身体最强壮的士兵，并在战场上领导突击行动。榴弹兵还经常在攻城战中领导攻打防御工事的缺口，尽管这一角色通常由被称为 "失望的希望 "的志愿者组成的全军部队来完成，也可能由工兵或先锋队来完成。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRENADIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRENADIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRENADIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRENADIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEMI_CANNON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>半加农炮是一种中型加农炮，类似于Culverin，但略大于普通的42磅（19公斤）加农炮，在17世纪初开发。一门完整的大炮发射42磅的炮弹，但这些大炮在十八世纪被认为太过笨重而停产了。十七世纪英国战舰的下层通常配备了半炮。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEMI_CANNON_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEMI_CANNON_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEMI_CANNON_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DEMI_CANNON_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MORTAR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>迫击炮已经使用了几百年，最初是用于攻城战。许多历史学家认为第一批迫击炮是在征服者穆罕默德1453年围攻君士坦丁堡时使用的。Giovanni da Tagliacozzo对1456年围攻贝尔格莱德的一份意大利报告说，奥斯曼土耳其人使用了七门迫击炮，发射 "一英里高的石弹"。这些迫击炮的飞行时间显然足够长，通过派驻观察员对其弹道进行警告，可以避免伤亡。然而，更早的迫击炮是在1413年的一场海战中在韩国使用的，当时韩国的炮匠们开发了Wan'gu（葫芦形迫击炮）（완구，碗口）。最早的Wan'gu版本可以追溯到1407年。崔海山（최해산, 崔海山）（1380-1443）是崔木森（최무선）（1325-1395）的儿子，一般被认为是发明了第一个Wan'gu。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MORTAR_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MORTAR_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MORTAR_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MORTAR_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUSSARS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>骠骑兵是一类轻骑兵的成员，在15和16世纪时起源于中欧。这些骑兵的称号和独特的服饰随后在17世纪末和18世纪初被欧洲军队的轻骑兵团广泛采用。现代军队中的一些装甲或仪式性的骑兵部队保留了骠骑兵的称号。从历史上看，这个术语来源于中世纪晚期匈牙利的骑兵，在马蒂亚斯-科维努斯的领导下，主要是塞族战士。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUSSARS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUSSARS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUSSARS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUSSARS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_CUIRASSIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>胸甲骑兵是装备有盔甲、剑和火器的骑兵，最早出现在15世纪末的欧洲。第一批骑兵的产生是由于装甲骑兵，如兵士和半长枪兵，抛弃了他们的长枪并采用手枪作为他们的主要武器。在17世纪晚期，骑兵失去了四肢盔甲，随后只使用盔甲（胸甲和背甲），有时还使用头盔。这时，剑或马刀已成为他们的主要武器，手枪则退居次要地位。宪兵在拿破仑战争期间取得了越来越突出的地位，最后一次出动是在第一次世界大战的开始阶段，宪兵继续被一些国家作为礼仪部队使用。这个法语术语的意思是 "有盔甲的人"（cuirasse），即他们所穿的胸甲。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_CUIRASSIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_CUIRASSIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_CUIRASSIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_CUIRASSIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HULK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>废船是指浮在水面上，但无法出海的船只。虽然有时被用来描述一艘已经下水但尚未完工的船，但该术语最常指的是一艘已经拆除了索具或内部设备的旧船，只保留了其浮力的特性。Hulk这个词也被用作动词：一艘船被 "废弃"，使其变成一艘废船。这个动词也适用于皇家海军船坞中的船员，他们被送到接收舰上住宿，或被 "抛弃"。废船有多种用途，如住房、监狱、打捞浮桥、赌博场所、海军训练或货物储存。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HULK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HULK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HULK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HULK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>大帆船是大型的多甲板帆船，在16至18世纪的航海时代，首先被欧洲国家用作武装运货船，在16世纪中期的英荷战争之前，它是主要的舰队单位，被征用为战舰。大帆船一般有三根或更多的桅杆，在后桅杆上有一个前桅和后桅的索具，有一个突出的方形凸起的船尾，并在其前桅和主桅上使用方形索具的帆计划。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEON_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRAGOONS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>龙骑兵最初是一类使用马匹进行机动，但也会下马步行作战的骑兵。从17世纪初开始，龙骑兵也越来越多地被用作传统的骑兵，接受从马背上用剑作战的训练。在17世纪末和18世纪初，大多数欧洲军队都建立了龙骑兵团。这个名字来自于一种被称为 "龙 "的火器，它是法国军队的龙骑兵所携带的一种手枪版本的雷管。在现代，这一称号被一些装甲或仪式性的骑兵团所保留。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRAGOONS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRAGOONS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRAGOONS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRAGOONS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<!-- New Units Text -->
+		<Replace Tag="LOC_UNIT_FUSILIER_NAME" Language="zh_Hans_CN">
+			<Text>燧发枪手</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FUSILIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代近战单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LATE_PIKEMAN_NAME" Language="zh_Hans_CN">
+			<Text>高等长矛兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LATE_PIKEMAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代抗骑兵单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GRENADIER_NAME" Language="zh_Hans_CN">
+			<Text>掷弹兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GRENADIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代火力支援单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMI_CANNON_NAME" Language="zh_Hans_CN">
+			<Text>半加农炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DEMI_CANNON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代远程单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MORTAR_NAME" Language="zh_Hans_CN">
+			<Text>迫击炮手</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MORTAR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代攻城部队，是攻打城市的理想选择。在同一回合中不能移动和攻击，除非他们开始时有3个以上的移动量（如大将军，后勤）或有专家级船员的晋升。(或者在任何时候，如果分母大于基本移动量......例如，当重型榴弹炮以3个移动量开始，移动一次，然后一个伟大的将军出现在旁边或者后勤被采用，它就可以进行轰炸。)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HUSSARS_NAME" Language="zh_Hans_CN">
+			<Text>轻骑兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HUSSARS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代轻骑兵单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_CUIRASSIER_NAME" Language="zh_Hans_CN">
+			<Text>早期胸甲骑兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_CUIRASSIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代重骑兵单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HULK_NAME" Language="zh_Hans_CN">
+			<Text>废船</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HULK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪高等海军远程单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_NAME" Language="zh_Hans_CN">
+			<Text>大帆船</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>文艺复兴时代海军轰炸单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRAGOONS_NAME" Language="zh_Hans_CN">
+			<Text>龙骑兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRAGOONS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代游骑兵单位</Text>
+		</Replace>
+		<!-- Text Changes -->
+		<Replace Tag="LOC_UNIT_CORVETTE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代海军近战单位</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代海军轰炸单位</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FRIGATE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>启蒙时代海军远程单位</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

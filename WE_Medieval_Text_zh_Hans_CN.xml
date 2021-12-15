@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- New Units Pedia Text -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>长剑是中世纪/文艺复兴时期战场上用途最广的武器。它比长矛更轻，更容易携带，而且可以单手或双手使用，使剑客可以同时携带盾牌。在与长矛手面对面的战斗中，长剑士处于明显的劣势，他们甚至在进入攻击距离之前就已经被较长的武器造成了许多伤亡。然而，长剑手部队比步兵更快、更有机动性--如果他们能在侧翼攻击中击中对手，步兵就成了死物。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LONGSWORDSMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FEUDAL_SPEARMAN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>封建长矛兵是来自下层社会的职业战士。刺矛的优势在于它的长度，比其他武器类型要长得多。确切的长矛长度很难推断，因为在考古学上存留下来的矛杆很少，但6-8英尺（1.8-2.4米）似乎是标准。一些国家因其长矛而闻名，包括苏格兰人和佛兰德人。长矛通常被用在严密的阵型中，如盾墙（shieldwall）或长矛（schiltron）。为了抵御骑兵，矛杆可以紧贴地面。威廉-华莱士在1298年的福尔柯克战役中把他的长矛队围成一圈，以阻止骑兵冲锋，这是一种广泛的战术，有时被称为 "cReplacen "阵型。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FEUDAL_SPEARMAN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FEUDAL_SPEARMAN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FEUDAL_SPEARMAN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FEUDAL_SPEARMAN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YEOMAN_ARCHER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>自耕农弓箭手是高度熟练的远程部队。轻装上阵，配备长弓进行远程作战。骑士由一个军事等级或地位组成（通常被称为战斗等级的第三阶，介于乡绅和侍从之间）。长弓是一种高大的弓--大致相当于使用者的身高--允许弓箭手拉得相当长。长弓没有明显的弯度。它的肢体是相对狭长的，所以它们的横截面是圆形或D形。平弓也可以同样长；不同的是，在横截面上，平弓的肢体是近似矩形的。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YEOMAN_ARCHER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YEOMAN_ARCHER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YEOMAN_ARCHER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_YEOMAN_ARCHER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTIERRE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>雇佣兵队长是意大利的队长，在中世纪和近代早期的多国军队中负责指挥雇佣军公司。他们在文艺复兴时期的意大利战争和欧洲宗教战争中主要为欧洲君主和教皇服务。著名的军师包括普罗斯佩罗-科隆纳、乔瓦尼-达勒-班德-尼尔、切萨雷-博尔基亚、安德烈亚-多利亚、帕尔马公爵以及佩斯卡拉侯爵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTIERRE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTIERRE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTIERRE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTIERRE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_KNIGHT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>骑士制度在10世纪就已经确立了。虽然骑士基本上是一个表示军事职务的头衔，但这个词也可用于高级贵族的职位，如土地所有者。高级贵族将他们的那部分土地（封地）授予附庸，以回报他们的忠诚、保护和服务。贵族们还为他们的骑士提供必需品，如住宿、食物、盔甲、武器、马匹和金钱。骑士一般通过军事使用权持有其土地，而军事使用权是通过通常每年持续40天的军事服务来衡量的。兵役是每个骑士的封地的交换条件。诸侯和领主可以保留任何数量的骑士，尽管那些具有更多军事经验的骑士是最受欢迎的。因此，所有想成为繁荣的骑士的小贵族都需要有大量的军事经验。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_KNIGHT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_KNIGHT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_KNIGHT_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_KNIGHT_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<!-- New Units Text -->
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_NAME" Language="zh_Hans_CN">
+			<Text>长剑士</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LONGSWORDSMAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪近战单位</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FEUDAL_SPEARMAN_NAME" Language="zh_Hans_CN">
+			<Text>封建长矛兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FEUDAL_SPEARMAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪早期抗骑兵单位</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_YEOMAN_ARCHER_NAME" Language="zh_Hans_CN">
+			<Text>自耕农弓箭手</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_YEOMAN_ARCHER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪早期远程单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CONDOTIERRE_NAME" Language="zh_Hans_CN">
+			<Text>雇佣兵队长</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CONDOTIERRE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪高等轻骑兵部队。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_KNIGHT_NAME" Language="zh_Hans_CN">
+			<Text>早期骑士</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_KNIGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪早期重装骑兵部队。</Text>
+		</Replace>
+		<!-- Text Changes -->
+		<Replace Tag="LOC_UNIT_KNIGHT_NAME" Language="zh_Hans_CN">
+			<Text>重装骑士</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

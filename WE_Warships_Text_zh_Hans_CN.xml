@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Naval Units -->
+		<Replace Tag="LOC_UNIT_RAIDER_NAME" Language="zh_Hans_CN">
+			<Text>商船袭击者</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工业时代海军袭击者单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_NAME" Language="zh_Hans_CN">
+			<Text>海防舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CORVETTE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>文艺复兴时代快速海军近战单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_NAME" Language="zh_Hans_CN">
+			<Text>导弹驱逐舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_DESTROYER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>最强大的远程海军单位。为周围1格内提供空中和核打击掩护。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_NAME" Language="zh_Hans_CN">
+			<Text>超级航母</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SUPERCARRIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代海军载机近战单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_NAME" Language="zh_Hans_CN">
+			<Text>桨帆战舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GALLEASS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪时代海军远程单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_NAME" Language="zh_Hans_CN">
+			<Text>装甲巡洋舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CRUISER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工业时代海军远程单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_NAME" Language="zh_Hans_CN">
+			<Text>战列巡洋舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLECRUISER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>现代海军远程单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CARRACK_NAME" Language="zh_Hans_CN">
+			<Text>克拉克帆船</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CARRACK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪海军轰炸单位</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_NAME" Language="zh_Hans_CN">
+			<Text>主力舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SHIP_OF_THE_LINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>文艺复兴时代海军轰炸单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_NAME" Language="zh_Hans_CN">
+			<Text>前无畏舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PRE_DREADNOUGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工业时代海军轰炸单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_NAME" Language="zh_Hans_CN">
+			<Text>海上炮击</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>免费对陆军单位的轰炸减益。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_BOMBARD_COMBAT_MODIFIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗海军轰炸单位+17战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_NAME" Language="zh_Hans_CN">
+			<Text>攻击型潜艇</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ATTACK_SUBMARINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代海军近战单位。非相邻不可见。对抗海军袭击者时+15 [ICON_Strength] 战斗力，对抗其他海军单位+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_NAME" Language="zh_Hans_CN">
+			<Text>海军步兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDUSTRIAL_MARINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工业时代的水陆两栖步兵单位。擅长从海上进行攻击。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_NAME" Language="zh_Hans_CN">
+			<Text>海军陆战队</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_WW2_MARINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能时代的水陆两栖步兵单位。擅长从海上进行攻击。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_NAME" Language="zh_Hans_CN">
+			<Text>现代海军陆战队</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_MARINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代的水陆两栖步兵单位。擅长从海上进行攻击。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_NAME" Language="zh_Hans_CN">
+			<Text>海军陆战队两栖训练</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>从海洋或河流进行攻击时，免除 [ICON_Strength] 战斗力和 [ICON_Movement] 移动力减益。并且位于海岸单元格作战时+10 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_NAVAL_BOMBARD_NAME" Language="zh_Hans_CN">
+			<Text>海上对抗</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_NAME" Language="zh_Hans_CN">
+			<Text>攻击海上单位</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_NAVAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗海军+10 [ICON_Bombard] 轰炸攻击力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_NAME" Language="zh_Hans_CN">
+			<Text>额外航程</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_MOVE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+1 [ICON_Movement] 移动力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_NAME" Language="zh_Hans_CN">
+			<Text>对陆攻击</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_LAND_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗陆地单位+10 [ICON_Bombard] 轰炸攻击力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_NAME" Language="zh_Hans_CN">
+			<Text>区域对抗</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_DISTRICT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗区域防御+10 [ICON_Bombard] 轰炸攻击力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_NAME" Language="zh_Hans_CN">
+			<Text>补给线</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_OUTSIDE_HEAL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>在友军领土之外恢复。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_NAME" Language="zh_Hans_CN">
+			<Text>防空作战</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_VS_AIR_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗空袭单位+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_NAME" Language="zh_Hans_CN">
+			<Text>特遣舰队</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_BOMBARD_EXTRA_ATTACK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>攻击后可移动。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_MARINE_NAME" Language="zh_Hans_CN">
+			<Text>海军陆战队</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_NAME" Language="zh_Hans_CN">
+			<Text>内河巡逻队</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RIVER_PATROL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>位于沼泽或河岸作战时+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_NAME" Language="zh_Hans_CN">
+			<Text>强力侦搜队</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COAST_GUARD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>此次晋升能使单位翻山越岭。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_NAME" Language="zh_Hans_CN">
+			<Text>远征特遣队</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_EXPEDITIONARY_FORCE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>位于外国或敌国领土作战时+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_NAME" Language="zh_Hans_CN">
+			<Text>海上禁区</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_RESERVE_FORCES_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>位于友军领土内作战+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_NAME" Language="zh_Hans_CN">
+			<Text>海上联合作战</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_COMBINED_ARMS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>受伤时作战没有战斗力减益。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_NAME" Language="zh_Hans_CN">
+			<Text>海岸警卫队</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CORPSMEN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>行动伊始每回合获得恢复。</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_NAME" Language="zh_Hans_CN">
+			<Text>海豹部队</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_ELITE_RAIDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>攻击时+10 [ICON_Strength] 战斗力且可在攻击后移动。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AMPHIBIOUS_ASSAULT_COMBAT_MODIFIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>沿岸作战+10 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_NAME" Language="zh_Hans_CN">
+			<Text>猎杀</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ATTACK_SUBMARINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗海军劫掠单位+15 [ICON_Strength] 战斗力，对抗其他战舰+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_RAIDER_MODIFIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗海军劫掠单位+15 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HUNTER_KILLER_SURFACE_MODIFIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>对抗海军非劫掠单位+7 [ICON_Strength] 战斗力。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_NAME" Language="zh_Hans_CN">
+			<Text>希腊火帆</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GREEK_FIRE_SHIP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>古典时代海军轰炸单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_NAME" Language="zh_Hans_CN">
+			<Text>鱼雷炮艇</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TORPEDO_GUNBOAT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>现代海军近战单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_NAME" Language="zh_Hans_CN">
+			<Text>轻巡洋舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_CRUISER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>现代海军远程单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_NAME" Language="zh_Hans_CN">
+			<Text>无畏舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DREADNOUGHT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>现代海军轰炸单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_NAME" Language="zh_Hans_CN">
+			<Text>轨道炮战舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RAILGUN_WARSHIP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代海军轰炸单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_NAME" Language="zh_Hans_CN">
+			<Text>寇克船</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_COG_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪海军近战单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_FRIGATE_NAME" Language="zh_Hans_CN">
+			<Text>导弹护卫舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_FRIGATE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>最强大的近战海军部队。能使视线范围中的潜艇暴露位置。</Text>
+		</Replace>
+		<!-- Naval Units Changes -->
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪快速探索近战海军单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子时代海军近战单位。在视线范围内可探海军突袭单位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子时代海军轰炸单位。能使视线范围中的海军袭击者暴露位置。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="zh_Hans_CN">
+			<Text>核潜艇</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_NAME" Language="zh_Hans_CN">
+			<Text>导弹巡洋舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>最强大的海军轰炸部队。在周围1格内提供空中和核打击掩护。</Text>
+		</Replace>
+		<!-- Naval Units Civilopedia -->
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>商船袭击者是武装的商船突击队，他们将自己伪装成非战斗性的商船。商船突击队是一种海战形式，通过攻击敌人的商船，而不是与敌人的战斗人员交战或对其实施封锁，来破坏或扰乱敌人在公海上的物流。它在法语中也被称为guerre de course（字面意思是 "追逐的战争"），在德语中被称为Handelskrieg（"贸易战"），来自于历史上对它作为一种战略投入最多的国家。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAIDER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>海防舰是一艘小军舰。它是传统上被认为是一艘(或“被评级”的)军舰的最小类别的船只。护卫舰上面的战舰等级是护卫舰的等级，而下面的等级在历史上是战舰的等级。corvette这个词最早出现在法语中，是荷兰语corf的缩写，意思是小船，来自拉丁语corbis，意思是篮子。在帆船时代，轻巡洋舰是许多比护卫舰还小、只有一层炮甲板的军舰之一。他们与战争的sloope有非常密切的关系。护卫舰的作用主要是沿海巡逻，参加小型战争，支援大型舰队，或参与展示旗帜的任务。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CORVETTE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>导弹驱逐舰是设计用来发射导弹的驱逐舰。许多国家还装备有反潜、防空和反水面作战的装备。这些船只的北约标准代号是DDG。不同的国家在使用驱逐舰D号的时候，在他们的船身三角旗编号，或前缀，或完全放弃它。美国海军在美国船体分类系统中采用了DDG分类。除了火炮之外，一艘导弹驱逐舰通常装备两个大型导弹弹匣，通常在垂直发射单元中。一些导弹驱逐舰包含强大的雷达系统，如美国的宙斯盾战斗系统，可以用于反导或弹道导弹防御任务。对于不再使用巡洋舰的海军来说尤其如此，因为必须采用其他船只来填补空白。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_DESTROYER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>超级航母是对最大类型航空母舰的非正式描述，通常是那些排水量超过7万短吨(6.4万公吨)的航母。超级航母是有史以来建造的最大战舰，比任何国家建造的最大战舰都要大。截至2015年，美国海军拥有10艘现役超级航母，而英国将拥有两艘——伊丽莎白女王级航母和威尔士亲王级航母，目前正在建造中，预计2018年投入使用。俄罗斯拥有库兹涅佐夫号，这是一艘载机巡洋舰(俄罗斯分类中的重型飞机携带导弹巡洋舰(TAVKR))，作为俄罗斯海军的旗舰。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPERCARRIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>三桅帆战舰是一种海军军舰，在16世纪逐渐流行起来，当时基于传统加莱的设计被修改为包括更重的武器。一艘典型的加莱斯号最初是一艘由桨驱动的商船，后来被升级为帆的桅杆。有两种形式的推进，三桅帆战舰设计允许船保持传统的三桅帆著名的速度，同时也携带重炮来抵御潜在的攻击。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GALLEASS_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>装甲巡洋舰是19世纪末20世纪初的一种军舰。它和其他类型的巡洋舰一样，被设计成一艘远程独立战舰，能够击败除战舰以外的任何一艘船，并且速度足以超过它遇到的任何一艘战舰。由于大小不同，它不同于其他类型的巡洋舰，因为它在船体的大部分地方都镀有一层厚厚的铁(或后来的钢铁)以保护船不受炮火的袭击，就像战舰上的炮火一样。到19世纪90年代，巡洋舰已经放弃了航行，呈现出一种现代的外观。几十年来，海军技术还没有发展到足以让设计人员制造出一艘将装甲带与完成任务所需的长距离和高速相结合的巡洋舰。使用这种类型的船通常可以建造更快、更全面的巡洋舰，这种巡洋舰依靠较轻的装甲甲板来保护船的重要部分;然而，到19世纪80年代末，快速火炮和高爆炮弹的发展使得重新引入侧装甲成为必要。19世纪90年代中期，面部硬化装甲的发明提供了比以前更轻的有效保护。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CRUISER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>战斗巡洋舰，或称巡洋舰，是在20世纪上半叶建造的一艘主力舰。它们在大小、成本和装备上都与战列舰相似，但为了获得更快的速度，它们通常只携带较少的装甲。第一艘战列巡洋舰是在本世纪头十年在英国设计的，作为装甲巡洋舰的发展，同时无畏级战舰继承了前无畏级战舰。设计的目的是要跑过任何拥有相似武器装备的船只，追过任何装备较弱的船只;他们的目标是追击速度较慢的老式装甲巡洋舰，用重炮摧毁它们，同时避免与更强大但速度较慢的战舰作战。然而，随着越来越多的战列巡洋舰被建造出来，它们被越来越多地用于保护更好的战舰。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BATTLECRUISER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>克拉克帆船是一种三桅或四桅的远洋帆船，于14至15世纪在欧洲（主要是葡萄牙）发展起来。从单桅船演变而来，船架首先用于从地中海到波罗的海的欧洲贸易，并很快在欧洲、非洲和美洲之间新发现的跨大西洋贸易财富中得到应用。在其最发达的形式中，Carrack是一种由carvel建造的远洋船：大到足以在大海上保持稳定，并可装载大量货物和非常长的航程所需的补给。后来的卡夫拉船在前桅和主桅上是方形的，在后桅上是后桅的。他们有一个高大的圆形船尾，有大型的后甲板，前甲板和船头的桅杆。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CARRACK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>一艘主力舰是一个从17到19世纪中叶参加海军战术类型,反对两列的军舰将策略带来的最大重量较宽的火力。由于这些战役几乎都是由最沉重的船只赢得的，这些船只携带着最强大的武器，自然的进程是建造当时最大最强大的帆船。从19世纪40年代末开始，蒸汽动力的引入减少了战争中对风的依赖，并导致了螺旋驱动的木船的建造;许多纯帆船被改装成这种推进装置。然而，铁甲护卫舰在1859年的引入迅速导致了该舰的蒸汽辅助船的衰落。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>前无畏战舰是在19世纪80年代中后期到1905年之间建造的海战战舰，在无畏号发射之前。前无畏级战舰取代了19世纪70年代和80年代的铁甲战舰。前无畏级战舰由钢铁建造，由坚硬的钢甲保护，主要由一排或多排轻型武器组成的二级炮台(开口或带装甲炮台)装备着非常重的火炮。它们由煤驱动的三倍膨胀蒸汽机驱动。与之前几十年铁甲战舰的混乱发展形成鲜明对比的是，19世纪90年代，世界各国海军开始按照共同的设计建造战列舰，因为几十艘军舰基本上遵循了英国雄伟级的设计。19世纪90年代建造的战舰数量不断增加，突出了战列舰在外观上的相似性。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRE_DREADNOUGHT_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>攻击潜艇或猎杀潜艇是专门为攻击和击沉其他潜艇、水面战斗人员和商船而设计的潜艇。在苏联和俄罗斯海军，它们过去和现在都被称为“多用途潜艇”。它们也被用来保护友好的水面战舰和导弹潜艇。一些攻击潜艇还装备了安装在垂直发射管上的巡航导弹，增加了其潜在任务的范围，包括陆地目标。攻击型潜艇可采用核动力或柴电(“常规”)动力。在美国海军命名系统和北约系统(STANAG 1166)中，核动力攻击潜艇被称为SSNs，其柴油-电力前身是SSKs。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ATTACK_SUBMARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>海军陆战队，也被称为海军陆战队或海军步兵，是一个典型的步兵部队，专门支持海上和陆上的海军和陆军行动，以及执行自己的行动。在大多数国家,海军的海军力量是不可分割的一部分,但它也可以在军队像剧团de海洋(法国海军陆战队)和Givati旅(以色列海军陆战队),或者成立一个独立的服务分支机构如美国海军陆战队和皇家海军陆战队(尽管美国海军陆战队是在美国海军,和皇家海军陆战队受到陛下的海军服务)。历史上,任务由海军陆战队包括:帮助维护纪律和秩序船上(反映出按自然的船舶公司和叛乱的风险),船舶在战斗或捕获的寄宿奖船只,并提供人力支持海军的袭击岸上目标。海军陆战队进化成专门从事两栖作战所需的技能和能力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDUSTRIAL_MARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>海军陆战队，也被称为海军陆战队或海军步兵，是一个典型的步兵部队，专门支持海上和陆上的海军和陆军行动，以及执行自己的行动。在大多数国家,海军的海军力量是不可分割的一部分,但它也可以在军队像剧团de海洋(法国海军陆战队)和Givati旅(以色列海军陆战队),或者成立一个独立的服务分支机构如美国海军陆战队和皇家海军陆战队(尽管美国海军陆战队是在美国海军,和皇家海军陆战队受到陛下的海军服务)。历史上,任务由海军陆战队包括:帮助维护纪律和秩序船上(反映出按自然的船舶公司和叛乱的风险),船舶在战斗或捕获的寄宿奖船只,并提供人力支持海军的袭击岸上目标。海军陆战队进化成专门从事两栖作战所需的技能和能力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WW2_MARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>海军陆战队，也被称为海军陆战队或海军步兵，是一个典型的步兵部队，专门支持海上和陆上的海军和陆军行动，以及执行自己的行动。在大多数国家,海军的海军力量是不可分割的一部分,但它也可以在军队像剧团de海洋(法国海军陆战队)和Givati旅(以色列海军陆战队),或者成立一个独立的服务分支机构如美国海军陆战队和皇家海军陆战队(尽管美国海军陆战队是在美国海军,和皇家海军陆战队受到陛下的海军服务)。历史上,任务由海军陆战队包括:帮助维护纪律和秩序船上(反映出按自然的船舶公司和叛乱的风险),船舶在战斗或捕获的寄宿奖船只,并提供人力支持海军的袭击岸上目标。海军陆战队进化成专门从事两栖作战所需的技能和能力。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_MARINE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>希腊火帆是传统帆船的一种改进形式，在帝国统治时期，它是拜占庭海军的一个组成部分。具有桨和帆的力量，绳龙是高度机动和敏捷，但也危险装备战斗。通过使用希腊火(现代凝固汽油弹的前身)，拜占庭人使用了一种早期的火焰喷射器，在海上任何反对他们的人心中制造恐惧。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREEK_FIRE_SHIP_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在19世纪晚期的海军术语中，鱼雷快艇是一种配备鱼雷的炮艇，专为搜寻和摧毁小型鱼雷船而设计。到19世纪90年代末，鱼雷炮艇被更成功的同时代驱逐舰所取代。一些鱼雷炮艇，1886年的响尾蛇原型，紧随其后的是蚱蜢级(3艘船)，神射手级(13艘船)，警报级(11艘船)和森林女神级(5艘船)，在1880年代和1890年代为皇家海军建造;类似的船只也由一些欧洲国家和日本建造或以其他方式获得。鱼雷炮艇本质上是非常小的巡洋舰，通常配备火车头锅炉，并配备鱼雷发射管和足够的武器装备，旨在追捕较小的敌人鱼雷快艇。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TORPEDO_GUNBOAT_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>轻巡洋舰是一种小型或中型军舰。“轻型装甲巡洋舰”是“轻型装甲巡洋舰”的缩写，指的是一艘小型船，它携带的装甲与装甲巡洋舰一样:一条防护带和甲板。在此之前，这种小型巡洋舰一直是保护巡洋舰模型，只有装甲甲板。尽管它们比其他当代船只更轻、更小，但它们仍然是真正的巡洋舰，保留了扩展的行动半径和在世界各地独立行动的自给自足能力。在他们的历史上，他们曾担任过各种各样的角色，主要是作为护卫队和驱逐舰的指挥舰，但也作为巡防队和舰队支援舰的战斗舰队。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_CRUISER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>无畏舰是20世纪早期最主要的战舰类型。第一艘皇家海军无畏级战舰在1906年发射时给人们留下了深刻的印象，随后建造的类似战舰被普遍称为“无畏级”，更早的战舰被称为“前无畏级”。无畏级的设计有两个革命性的特点:“全大枪”武器装备计划，比以前的舰艇拥有更多的重型火炮，以及汽轮机推进。随着无畏级战舰成为国家实力的象征，这些新军舰的到来成为英国和德国之间日益激烈的海军军备竞赛的关键催化剂。随着一艘名为无畏级的军舰的发射，海军力量的规模在一夜之间被重新调整。结果，在第一次世界大战之前，无畏级的种族在世界各地兴起，包括在南美洲。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREADNOUGHT_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>轨道炮是一种利用电磁力发射高速弹丸的装置，通过滑动衔铁沿一对导电轨道加速。[2]它通常作为一种武器来建造，弹丸通常不含炸药，依靠弹丸的高速来造成伤害。轨道枪使用一对平行的导体或轨道，在电流的电磁作用下，滑动的电枢沿着一条轨道流动，进入电枢，然后沿着另一条轨道返回，从而加速。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RAILGUN_WARSHIP_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>寇克船是一种最早出现在10世纪的船只，从12世纪左右开始被广泛使用。寇克船是用熟料建造的，一般用橡木，这是普鲁士波罗的海地区的一种丰富的木材。这种船配备了一个单桅杆和一个方形的单帆。这些船只大多与中世纪欧洲的海上贸易有关，特别是汉萨同盟，尤其是在波罗的海地区。它们的长度约为15至25米（49至82英尺），宽度为5至8米（16至26英尺），最大的齿轮船可以承载约200吨。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COG_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>二战后，地对空导弹的引入使相对较小的舰艇在防空战中变得有效："导弹护卫舰"。在美国海军中，这些舰艇被称为 "海洋护卫舰"，直到1975年才被命名为 "DE "或 "DEG"--这是第二次世界大战中驱逐舰护卫舰或 "DE "的遗留问题。加拿大皇家海军和英国皇家海军保持使用 "护卫舰 "这一术语；同样，法国海军将配备有导弹的舰艇，直到巡洋舰大小的舰艇（苏弗伦级、图维尔级和地平线级），称为 "frégate"，而较小的单位则被命名为aviso。苏联海军使用 "护卫舰"（сторожевой корабль）这一术语。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSILE_FRIGATE_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+	</LocalizedText>
+</GameData>
