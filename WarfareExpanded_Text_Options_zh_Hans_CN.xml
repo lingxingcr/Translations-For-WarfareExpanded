@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_NAME" Language="zh_Hans_CN">
 			<Text>一级舰</Text>
 		</Replace>
@@ -10,5 +10,5 @@
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
 			<Text>在英国皇家海军用于分类航行战舰的评级系统中，一级舰是对最大的战舰的称呼，相当于近代的超级无畏舰。起源于雅克比时代的皇家舰艇，能够运载至少400人，在随后的250年里，一级舰的规模和编制不断发展，最终表示在三个甲板上至少运载80门炮的战舰。到了十八世纪末，一艘一级舰携带不少于100门炮和超过850名船员，测量吨位约为2000吨。</Text>
 		</Replace>
-	</BaseGameText>
+	</LocalizedText>
 </GameData>
